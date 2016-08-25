@@ -1,4 +1,7 @@
-# Grasshopper  
+# Grasshopper 
+
+![Image of Home Page](https://github.com/danibsheehan/grasshopper/blob/master/grasshopper-home.png)
+
 Grasshopper is a web-based tool that developers include in their websites and applications. It gives their users and customers a streamlined, straightforward bug reporting channel and provides important insight into the environment where problems occur.  
 
 ### Version
